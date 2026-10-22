@@ -10,7 +10,7 @@
 
 ### 1. Doğrusal Regresyon
 - [x] [Giriş: model, ağırlık, yanlılık](notlar/01-dogrusal-regresyon/01-giris.md)
-- [ ] Kayıp (Loss)
+- [x] [Kayıp (Loss): L1, L2, MAE, MSE, RMSE](notlar/01-dogrusal-regresyon/02-kayip.md)
 - [ ] Gradyan inişi
 - [ ] Hiperparametreler
 - [ ] Programlama alıştırması
@@ -28,4 +28,5 @@ kod/      → Denemeler ve alıştırma kodları (Python)
 pip install -r requirements.txt
 python kod/01-dogrusal-regresyon/basit_regresyon.py
 python kod/01-dogrusal-regresyon/grafik.py
+python kod/01-dogrusal-regresyon/kayip.py
 ```
