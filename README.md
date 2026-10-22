@@ -27,4 +27,5 @@ kod/      → Denemeler ve alıştırma kodları (Python)
 ```bash
 pip install -r requirements.txt
 python kod/01-dogrusal-regresyon/basit_regresyon.py
+python kod/01-dogrusal-regresyon/grafik.py
 ```
