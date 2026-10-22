@@ -13,7 +13,7 @@
 - [x] [Kayıp (Loss): L1, L2, MAE, MSE, RMSE](notlar/01-dogrusal-regresyon/02-kayip.md)
 - [x] [Gradyan inişi: yakınsama, kayıp eğrisi, dışbükey yüzey](notlar/01-dogrusal-regresyon/03-gradyan-inisi.md)
 - [x] [Hiperparametreler: öğrenme oranı, grup boyutu, dönem](notlar/01-dogrusal-regresyon/04-hiperparametreler.md)
-- [ ] Programlama alıştırması
+- [x] [Programlama alıştırması: Chicago taksi ücreti](notlar/01-dogrusal-regresyon/05-programlama-alistirmasi.md) · [notebook](kod/01-dogrusal-regresyon/taksi_ucreti.ipynb)
 
 ## 🗂️ Klasör yapısı
 
