@@ -14,12 +14,13 @@
 - [x] [Gradyan inişi: yakınsama, kayıp eğrisi, dışbükey yüzey](notlar/01-dogrusal-regresyon/03-gradyan-inisi.md)
 - [x] [Hiperparametreler: öğrenme oranı, grup boyutu, dönem](notlar/01-dogrusal-regresyon/04-hiperparametreler.md)
 - [x] [Programlama alıştırması: Chicago taksi ücreti](notlar/01-dogrusal-regresyon/05-programlama-alistirmasi.md) · [notebook](kod/01-dogrusal-regresyon/taksi_ucreti.ipynb)
+- [ ] Bilginizi test edin (modül sonu testi)
 
 ## 🗂️ Klasör yapısı
 
 ```
 notlar/   → Her modül için ders ders Markdown notlar
-kod/      → Denemeler ve alıştırma kodları (Python)
+kod/      → Denemeler, alıştırma kodları ve notebook'lar (Python)
 ```
 
 ## ▶️ Kodları çalıştırma
@@ -31,4 +32,9 @@ python kod/01-dogrusal-regresyon/grafik.py
 python kod/01-dogrusal-regresyon/kayip.py
 python kod/01-dogrusal-regresyon/gradyan_inisi.py
 python kod/01-dogrusal-regresyon/hiperparametreler.py
+
+# Taksi ücreti notebook'u
+jupyter notebook kod/01-dogrusal-regresyon/taksi_ucreti.ipynb
 ```
+
+> Notebook'u kurulum yapmadan çalıştırmak için [Colab'da aç](https://colab.research.google.com/github/cengizhankkaya/ml-crash-course-notlar/blob/main/kod/01-dogrusal-regresyon/taksi_ucreti.ipynb).
