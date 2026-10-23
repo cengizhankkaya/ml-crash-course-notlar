@@ -42,6 +42,7 @@
 - [x] [Özellik vektörleri ve özellik mühendisliği](notlar/04-sayisal-veri/01-ozellik-vektorleri.md)
 - [x] [İlk adımlar: görselleştirme, istatistik, aykırı değerler](notlar/04-sayisal-veri/02-ilk-adimlar.md)
 - [ ] [Programlama alıştırmaları: istatistikler ve kötü bölüm](notlar/04-sayisal-veri/03-programlama-alistirmalari.md) (Colab sonuçları bekleniyor)
+- [x] [Normalleştirme: doğrusal, z-puanı, log, kırpma](notlar/04-sayisal-veri/04-normallestirme.md)
 
 ## 🗂️ Klasör yapısı
 
@@ -71,6 +72,7 @@ python kod/03-siniflandirma/cok_sinifli.py
 python kod/04-sayisal-veri/sayisal_mi_kategorik_mi.py
 python kod/04-sayisal-veri/ozellik_vektoru.py
 python kod/04-sayisal-veri/ilk_adimlar.py
+python kod/04-sayisal-veri/normallestirme.py
 
 # Taksi ücreti notebook'u
 jupyter notebook kod/01-dogrusal-regresyon/taksi_ucreti.ipynb
