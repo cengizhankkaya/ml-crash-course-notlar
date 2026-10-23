@@ -41,6 +41,7 @@
 - [x] [Modüle giriş: sayısal veri nedir?](notlar/04-sayisal-veri/00-giris.md)
 - [x] [Özellik vektörleri ve özellik mühendisliği](notlar/04-sayisal-veri/01-ozellik-vektorleri.md)
 - [x] [İlk adımlar: görselleştirme, istatistik, aykırı değerler](notlar/04-sayisal-veri/02-ilk-adimlar.md)
+- [ ] [Programlama alıştırmaları: istatistikler ve kötü bölüm](notlar/04-sayisal-veri/03-programlama-alistirmalari.md) (Colab sonuçları bekleniyor)
 
 ## 🗂️ Klasör yapısı
 
