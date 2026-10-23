@@ -32,7 +32,7 @@
 - [x] [Doğruluk, geri çağırma, kesinlik, FPR, F1](notlar/03-siniflandirma/02-metrikler.md)
 - [x] [ROC ve AUC: eşikten bağımsız değerlendirme](notlar/03-siniflandirma/03-roc-auc.md)
 - [x] [Tahmin yanlılığı](notlar/03-siniflandirma/04-tahmin-yanliligi.md)
-- [ ] Çok sınıflı sınıflandırma
+- [x] [Çok sınıflı sınıflandırma: biri diğerlerine karşı, aşamalı](notlar/03-siniflandirma/05-cok-sinifli.md)
 - [ ] Programlama alıştırması
 - [ ] Bilginizi test edin
 
@@ -60,6 +60,7 @@ python kod/03-siniflandirma/karisiklik_matrisi.py
 python kod/03-siniflandirma/metrikler.py
 python kod/03-siniflandirma/roc_auc.py
 python kod/03-siniflandirma/tahmin_yanliligi.py
+python kod/03-siniflandirma/cok_sinifli.py
 
 # Taksi ücreti notebook'u
 jupyter notebook kod/01-dogrusal-regresyon/taksi_ucreti.ipynb
