@@ -39,6 +39,7 @@
 
 ### 4. Sayısal Verilerle Çalışma
 - [x] [Modüle giriş: sayısal veri nedir?](notlar/04-sayisal-veri/00-giris.md)
+- [x] [Özellik vektörleri ve özellik mühendisliği](notlar/04-sayisal-veri/01-ozellik-vektorleri.md)
 
 ## 🗂️ Klasör yapısı
 
@@ -66,6 +67,7 @@ python kod/03-siniflandirma/roc_auc.py
 python kod/03-siniflandirma/tahmin_yanliligi.py
 python kod/03-siniflandirma/cok_sinifli.py
 python kod/04-sayisal-veri/sayisal_mi_kategorik_mi.py
+python kod/04-sayisal-veri/ozellik_vektoru.py
 
 # Taksi ücreti notebook'u
 jupyter notebook kod/01-dogrusal-regresyon/taksi_ucreti.ipynb
