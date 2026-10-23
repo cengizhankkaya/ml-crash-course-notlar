@@ -9,6 +9,7 @@
 | 1 | Doğrusal Regresyon | 🟡 Devam ediyor | [notlar](notlar/01-dogrusal-regresyon/) | [kod](kod/01-dogrusal-regresyon/) |
 | 2 | Mantıksal Regresyon | 🟡 Devam ediyor | [notlar](notlar/02-mantiksal-regresyon/) | [kod](kod/02-mantiksal-regresyon/) |
 | 3 | Sınıflandırma | 🟡 Devam ediyor | [notlar](notlar/03-siniflandirma/) | [kod](kod/03-siniflandirma/) |
+| 4 | Sayısal Verilerle Çalışma | 🟡 Devam ediyor | [notlar](notlar/04-sayisal-veri/) | [kod](kod/04-sayisal-veri/) |
 
 ### 1. Doğrusal Regresyon
 - [x] [Giriş: model, ağırlık, yanlılık](notlar/01-dogrusal-regresyon/01-giris.md)
@@ -36,6 +37,9 @@
 - [ ] Programlama alıştırması
 - [ ] Bilginizi test edin
 
+### 4. Sayısal Verilerle Çalışma
+- [x] [Modüle giriş: sayısal veri nedir?](notlar/04-sayisal-veri/00-giris.md)
+
 ## 🗂️ Klasör yapısı
 
 ```
@@ -61,6 +65,7 @@ python kod/03-siniflandirma/metrikler.py
 python kod/03-siniflandirma/roc_auc.py
 python kod/03-siniflandirma/tahmin_yanliligi.py
 python kod/03-siniflandirma/cok_sinifli.py
+python kod/04-sayisal-veri/sayisal_mi_kategorik_mi.py
 
 # Taksi ücreti notebook'u
 jupyter notebook kod/01-dogrusal-regresyon/taksi_ucreti.ipynb
