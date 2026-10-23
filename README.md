@@ -21,7 +21,7 @@
 
 ### 2. Mantıksal Regresyon
 - [x] [Modüle giriş: neden mantıksal regresyon?](notlar/02-mantiksal-regresyon/00-giris.md)
-- [ ] Olasılık hesaplama: sigmoid fonksiyonu
+- [x] [Olasılık hesaplama: sigmoid fonksiyonu, log-odds](notlar/02-mantiksal-regresyon/01-sigmoid.md)
 - [ ] Kayıp ve düzenlileştirme (log kaybı)
 - [ ] Bilginizi test edin
 
@@ -42,6 +42,7 @@ python kod/01-dogrusal-regresyon/kayip.py
 python kod/01-dogrusal-regresyon/gradyan_inisi.py
 python kod/01-dogrusal-regresyon/hiperparametreler.py
 python kod/02-mantiksal-regresyon/neden_mantiksal.py
+python kod/02-mantiksal-regresyon/sigmoid.py
 
 # Taksi ücreti notebook'u
 jupyter notebook kod/01-dogrusal-regresyon/taksi_ucreti.ipynb
