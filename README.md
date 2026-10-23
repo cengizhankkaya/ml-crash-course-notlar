@@ -8,6 +8,7 @@
 |---|-------|-------|--------|-----|
 | 1 | Doğrusal Regresyon | 🟡 Devam ediyor | [notlar](notlar/01-dogrusal-regresyon/) | [kod](kod/01-dogrusal-regresyon/) |
 | 2 | Mantıksal Regresyon | 🟡 Devam ediyor | [notlar](notlar/02-mantiksal-regresyon/) | [kod](kod/02-mantiksal-regresyon/) |
+| 3 | Sınıflandırma | 🟡 Devam ediyor | [notlar](notlar/03-siniflandirma/) | [kod](kod/03-siniflandirma/) |
 
 ### 1. Doğrusal Regresyon
 - [x] [Giriş: model, ağırlık, yanlılık](notlar/01-dogrusal-regresyon/01-giris.md)
@@ -23,6 +24,16 @@
 - [x] [Modüle giriş: neden mantıksal regresyon?](notlar/02-mantiksal-regresyon/00-giris.md)
 - [x] [Olasılık hesaplama: sigmoid fonksiyonu, log-odds](notlar/02-mantiksal-regresyon/01-sigmoid.md)
 - [x] [Log kaybı ve düzenlileştirme: L2, erken durdurma](notlar/02-mantiksal-regresyon/02-kayip-duzenlilestirme.md)
+- [ ] Bilginizi test edin
+
+### 3. Sınıflandırma
+- [x] [Modüle giriş: olasılıktan sınıfa, eşik](notlar/03-siniflandirma/00-giris.md)
+- [ ] Eşikler ve karışıklık matrisi
+- [ ] Doğruluk, hatırlama, kesinlik ve ilgili metrikler
+- [ ] ROC ve AUC
+- [ ] Tahmin yanlılığı
+- [ ] Çok sınıflı sınıflandırma
+- [ ] Programlama alıştırması
 - [ ] Bilginizi test edin
 
 ## 🗂️ Klasör yapısı
@@ -44,6 +55,7 @@ python kod/01-dogrusal-regresyon/hiperparametreler.py
 python kod/02-mantiksal-regresyon/neden_mantiksal.py
 python kod/02-mantiksal-regresyon/sigmoid.py
 python kod/02-mantiksal-regresyon/log_kaybi.py
+python kod/03-siniflandirma/olasiliktan_sinifa.py
 
 # Taksi ücreti notebook'u
 jupyter notebook kod/01-dogrusal-regresyon/taksi_ucreti.ipynb
