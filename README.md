@@ -31,7 +31,7 @@
 - [x] [Eşikler ve karışıklık matrisi: TP, FP, FN, TN](notlar/03-siniflandirma/01-esik-karisiklik-matrisi.md)
 - [x] [Doğruluk, geri çağırma, kesinlik, FPR, F1](notlar/03-siniflandirma/02-metrikler.md)
 - [x] [ROC ve AUC: eşikten bağımsız değerlendirme](notlar/03-siniflandirma/03-roc-auc.md)
-- [ ] Tahmin yanlılığı
+- [x] [Tahmin yanlılığı](notlar/03-siniflandirma/04-tahmin-yanliligi.md)
 - [ ] Çok sınıflı sınıflandırma
 - [ ] Programlama alıştırması
 - [ ] Bilginizi test edin
@@ -59,6 +59,7 @@ python kod/03-siniflandirma/olasiliktan_sinifa.py
 python kod/03-siniflandirma/karisiklik_matrisi.py
 python kod/03-siniflandirma/metrikler.py
 python kod/03-siniflandirma/roc_auc.py
+python kod/03-siniflandirma/tahmin_yanliligi.py
 
 # Taksi ücreti notebook'u
 jupyter notebook kod/01-dogrusal-regresyon/taksi_ucreti.ipynb
