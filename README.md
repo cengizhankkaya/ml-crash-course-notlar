@@ -22,7 +22,7 @@
 ### 2. Mantıksal Regresyon
 - [x] [Modüle giriş: neden mantıksal regresyon?](notlar/02-mantiksal-regresyon/00-giris.md)
 - [x] [Olasılık hesaplama: sigmoid fonksiyonu, log-odds](notlar/02-mantiksal-regresyon/01-sigmoid.md)
-- [ ] Kayıp ve düzenlileştirme (log kaybı)
+- [x] [Log kaybı ve düzenlileştirme: L2, erken durdurma](notlar/02-mantiksal-regresyon/02-kayip-duzenlilestirme.md)
 - [ ] Bilginizi test edin
 
 ## 🗂️ Klasör yapısı
@@ -43,6 +43,7 @@ python kod/01-dogrusal-regresyon/gradyan_inisi.py
 python kod/01-dogrusal-regresyon/hiperparametreler.py
 python kod/02-mantiksal-regresyon/neden_mantiksal.py
 python kod/02-mantiksal-regresyon/sigmoid.py
+python kod/02-mantiksal-regresyon/log_kaybi.py
 
 # Taksi ücreti notebook'u
 jupyter notebook kod/01-dogrusal-regresyon/taksi_ucreti.ipynb
