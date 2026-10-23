@@ -7,6 +7,7 @@
 | # | Modül | Durum | Notlar | Kod |
 |---|-------|-------|--------|-----|
 | 1 | Doğrusal Regresyon | 🟡 Devam ediyor | [notlar](notlar/01-dogrusal-regresyon/) | [kod](kod/01-dogrusal-regresyon/) |
+| 2 | Mantıksal Regresyon | 🟡 Devam ediyor | [notlar](notlar/02-mantiksal-regresyon/) | [kod](kod/02-mantiksal-regresyon/) |
 
 ### 1. Doğrusal Regresyon
 - [x] [Giriş: model, ağırlık, yanlılık](notlar/01-dogrusal-regresyon/01-giris.md)
@@ -17,6 +18,12 @@
 - [ ] Etkileşimli alıştırma: Eğim azalma
 - [x] [Programlama alıştırması: Chicago taksi ücreti](notlar/01-dogrusal-regresyon/05-programlama-alistirmasi.md) · [notebook](kod/01-dogrusal-regresyon/taksi_ucreti.ipynb)
 - [ ] Bilginizi test edin (modül sonu testi)
+
+### 2. Mantıksal Regresyon
+- [x] [Modüle giriş: neden mantıksal regresyon?](notlar/02-mantiksal-regresyon/00-giris.md)
+- [ ] Olasılık hesaplama: sigmoid fonksiyonu
+- [ ] Kayıp ve düzenlileştirme (log kaybı)
+- [ ] Bilginizi test edin
 
 ## 🗂️ Klasör yapısı
 
@@ -34,6 +41,7 @@ python kod/01-dogrusal-regresyon/grafik.py
 python kod/01-dogrusal-regresyon/kayip.py
 python kod/01-dogrusal-regresyon/gradyan_inisi.py
 python kod/01-dogrusal-regresyon/hiperparametreler.py
+python kod/02-mantiksal-regresyon/neden_mantiksal.py
 
 # Taksi ücreti notebook'u
 jupyter notebook kod/01-dogrusal-regresyon/taksi_ucreti.ipynb
