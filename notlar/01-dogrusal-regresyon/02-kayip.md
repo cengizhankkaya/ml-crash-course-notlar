@@ -81,20 +81,20 @@ Aşağıda kendi verimize (3.0, 40) aykırı değerini ekleyip modeli iki farkl�
 
 ## ✅ Kendimi test
 10 noktalı iki veri kümesi var, ikisinde de aynı model kullanılıyor:
-- **Grafik A:** 6 nokta doğrunun tam üstünde, 2 nokta 1 birim yukarıda, 2 nokta 1 birim aşağıda.
-- **Grafik B:** 8 nokta doğrunun tam üstünde, 1 nokta 2 birim yukarıda, 1 nokta 2 birim aşağıda.
+- **Soldaki (A):** 6 nokta doğrunun tam üstünde, 2 nokta 1 birim yukarıda, 2 nokta 1 birim aşağıda.
+- **Sağdaki (B):** 8 nokta doğrunun tam üstünde, 1 nokta 2 birim yukarıda, 1 nokta 2 birim aşağıda.
 
-**S:** Hangisinin MSE'si daha yüksek?
+**S:** Çizilen veri noktaları üzerinde değerlendirildiğinde hangi modelin ortalama kare hatası (MSE) daha yüksektir? (Soldaki / Sağdaki)
 
 | | MAE | MSE |
 |---|---|---|
 | A | (4 × 1) / 10 = **0.4** | (4 × 1²) / 10 = **0.4** |
 | B | (2 × 2) / 10 = **0.4** | (2 × 2²) / 10 = **0.8** |
 
-**C:** **B**. İkisinin MAE'si aynı, ama B'deki hatalar daha büyük ve kare alma büyük hataları daha çok cezalandırıyor.
+**C:** **Sağdaki model (B)**. İkisinin MAE'si aynı, ama B'deki hatalar daha büyük ve kare alma büyük hataları daha çok cezalandırıyor.
 
 ## 🔑 Anahtar terimler
-`loss` · `L1 loss` · `L2 loss` · `MAE` · `MSE` · `RMSE` · `outlier`
+`loss` · `L1 loss` · `L2 loss` · `MAE` · `MSE` · `RMSE` · `outlier` · `prediction`
 
 ---
 💻 İlgili kod: [`kayip.py`](../../kod/01-dogrusal-regresyon/kayip.py): beş kayıp türünü hesaplar, tek nokta örneğini doğrular, MSE ile MAE'yi karşılaştırır ve grafikleri çizer.
