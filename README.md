@@ -28,7 +28,7 @@
 
 ### 3. Sınıflandırma
 - [x] [Modüle giriş: olasılıktan sınıfa, eşik](notlar/03-siniflandirma/00-giris.md)
-- [ ] Eşikler ve karışıklık matrisi
+- [x] [Eşikler ve karışıklık matrisi: TP, FP, FN, TN](notlar/03-siniflandirma/01-esik-karisiklik-matrisi.md)
 - [ ] Doğruluk, hatırlama, kesinlik ve ilgili metrikler
 - [ ] ROC ve AUC
 - [ ] Tahmin yanlılığı
@@ -56,6 +56,7 @@ python kod/02-mantiksal-regresyon/neden_mantiksal.py
 python kod/02-mantiksal-regresyon/sigmoid.py
 python kod/02-mantiksal-regresyon/log_kaybi.py
 python kod/03-siniflandirma/olasiliktan_sinifa.py
+python kod/03-siniflandirma/karisiklik_matrisi.py
 
 # Taksi ücreti notebook'u
 jupyter notebook kod/01-dogrusal-regresyon/taksi_ucreti.ipynb
