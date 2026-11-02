@@ -24,7 +24,7 @@ Colab kurulum gerektirmez, tarayıcıda çalışır (en iyi Chrome ve Firefox'un
 Benim [ilk_adimlar.py](../../kod/04-sayisal-veri/ilk_adimlar.py) deneyim bu iki alıştırmanın küçük bir provası gibi: Yüzdelik farkı istatistikle iki aykırı sütunu buldu, histogram ise istatistikte görünmeyen "0'da gizli sütunu" ortaya çıkardı.
 
 ## 📝 Sonuçlarım
-*Colab'da çalıştırınca doldur:*
+*Kurs tamamlandı. Bu arşive kişisel Colab sonuçları kaydedilmediği için aşağıdaki sonuç alanları boş bırakılmıştır.*
 
 ### Alıştırma 1: İstatistikler
 - Hangi sütunlarda belirgin aykırı değer var?

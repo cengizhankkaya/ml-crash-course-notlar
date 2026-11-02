@@ -94,7 +94,7 @@ Eğitilmiş modelle örnek yolculukların ücreti tahmin edilip gerçek değerle
 ---
 
 ## 📝 Sonuçlarım
-*Colab'da çalıştırınca doldur:*
+*Kurs tamamlandı. Bu arşive kişisel Colab sonuçları kaydedilmediği için aşağıdaki sonuç alanları boş bırakılmıştır.*
 
 | Deney | Özellik(ler) | lr | Grup | Son RMSE ($) | Gözlem |
 |---|---|---|---|---|---|
